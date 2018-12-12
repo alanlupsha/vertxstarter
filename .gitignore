@@ -1,5 +1,7 @@
 target
 .iml
-.mvn
-.idea
-.vertx
+/.vertx/
+/.idea/
+/.mvn/
+/target/
+/starter.iml
